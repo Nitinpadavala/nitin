@@ -23,4 +23,4 @@ And finally the last section shows you the contact details like location,email a
 
 ![n6](https://user-images.githubusercontent.com/114422816/192335179-d0a68495-3b47-4f65-8719-4bed21305c37.jpg)
 
-The link to my website is 
+The link to my website is  https://yellow-mud-085328710.1.azurestaticapps.net
